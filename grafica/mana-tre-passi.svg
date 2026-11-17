@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2400" height="460" viewBox="0 0 2400 460">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2400" height="400" viewBox="0 0 2400 400">
 <defs>
 <radialGradient id="g1" cx=".08" cy="1.05" r=".75"><stop offset="0" stop-color="#14b8a6" stop-opacity=".26"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
 <radialGradient id="g2" cx="1" cy="-.1" r=".6"><stop offset="0" stop-color="#22d3ee" stop-opacity=".13"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="130" x2="400" y1="0" y2="0"><stop offset="0" stop-color="#5eead4" stop-opacity="0"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
 <path id="n0" d="M322 -14Q200 -14 128 56Q55 125 55 265V435Q55 572 128 643Q200 714 322 714Q445 714 518 643Q590 572 590 435V265Q590 125 518 56Q445 -14 322 -14ZM322 80Q405 80 445 128Q485 175 485 261V441Q485 527 442 574Q399 620 322 620Q244 620 202 572Q160 525 160 441V261Q160 173 200 126Q241 80 322 80Z"/>
 <path id="n1" d="M257 0V626H241L126 390H15L170 700H362V0Z"/>
 <path id="a2" d="M69 0V700H368Q434 700 483 677Q532 654 560 612Q587 571 587 513V502Q587 437 556 398Q525 359 481 341V325Q520 323 542 298Q565 273 565 231V0H445V214Q445 239 432 254Q418 270 388 270H190V0ZM190 379H356Q408 379 438 406Q467 434 467 480V489Q467 536 438 564Q409 591 356 591H190Z"/>
@@ -22,15 +23,15 @@
 <path id="a17" d="M299 -14Q225 -14 168 18Q112 49 80 106Q49 164 49 241V253Q49 331 80 388Q111 445 167 476Q223 508 296 508Q368 508 422 476Q476 445 506 388Q536 331 536 255V214H165Q167 156 206 121Q245 86 302 86Q358 86 385 110Q412 135 426 166L521 117Q507 90 480 60Q454 29 410 8Q366 -14 299 -14ZM166 301H419Q415 350 382 379Q348 408 295 408Q240 408 207 379Q174 350 166 301Z"/>
 <path id="a18" d="M73 0V494H186V425H203Q216 453 250 478Q284 503 353 503Q410 503 454 477Q498 451 522 405Q547 359 547 296V0H432V287Q432 347 402 376Q373 406 319 406Q258 406 223 366Q188 325 188 250V0Z"/>
 </defs>
-<rect width="2400" height="460" rx="34" fill="#04070a"/>
-<rect width="2400" height="460" rx="34" fill="url(#g1)"/>
-<rect width="2400" height="460" rx="34" fill="url(#g2)"/>
-<path d="M150 128H2290M2264 106L2290 128L2264 150" stroke="#5eead4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-<circle cx="150" cy="128" r="30" fill="#04070a" stroke="#14b8a6" stroke-opacity=".35" stroke-width="5"/><circle cx="150" cy="128" r="14" fill="#5eead4"/><circle cx="920" cy="128" r="30" fill="#04070a" stroke="#14b8a6" stroke-opacity=".35" stroke-width="5"/><circle cx="920" cy="128" r="14" fill="#5eead4"/><circle cx="1690" cy="128" r="30" fill="#04070a" stroke="#14b8a6" stroke-opacity=".35" stroke-width="5"/><circle cx="1690" cy="128" r="14" fill="#5eead4"/>
-<g fill="#5eead4" transform="translate(0 240) scale(0.046 -0.046)"><use xlink:href="#n0" x="2609"/><use xlink:href="#n1" x="3319"/></g>
-<g fill="#fff" transform="translate(0 366) scale(0.112 -0.112)"><use xlink:href="#a2" x="1018"/><use xlink:href="#a3" x="1650"/><use xlink:href="#a4" x="1911"/><use xlink:href="#a5" x="2436"/><use xlink:href="#a6" x="3049"/><use xlink:href="#a7" x="3310"/><use xlink:href="#a5" x="3840"/></g>
-<g fill="#5eead4" transform="translate(0 240) scale(0.046 -0.046)"><use xlink:href="#n0" x="19348"/><use xlink:href="#n8" x="20058"/></g>
-<g fill="#fff" transform="translate(0 366) scale(0.112 -0.112)"><use xlink:href="#a9" x="7893"/><use xlink:href="#a10" x="8526"/><use xlink:href="#a11" x="9141"/><use xlink:href="#a5" x="9580"/><use xlink:href="#a12" x="10193"/><use xlink:href="#a13" x="11048"/><use xlink:href="#a11" x="11590"/><use xlink:href="#a3" x="12047"/><use xlink:href="#a14" x="12308"/><use xlink:href="#a14" x="12827"/><use xlink:href="#a5" x="13335"/></g>
-<g fill="#5eead4" transform="translate(0 240) scale(0.046 -0.046)"><use xlink:href="#n0" x="36087"/><use xlink:href="#n15" x="36797"/></g>
-<g fill="#fff" transform="translate(0 366) scale(0.112 -0.112)"><use xlink:href="#a9" x="14768"/><use xlink:href="#a16" x="15401"/><use xlink:href="#a17" x="16040"/><use xlink:href="#a18" x="16621"/><use xlink:href="#a11" x="17222"/><use xlink:href="#a17" x="17661"/></g>
+<rect width="2400" height="400" rx="34" fill="#04070a"/>
+<rect width="2400" height="400" rx="34" fill="url(#g1)"/>
+<rect width="2400" height="400" rx="34" fill="url(#g2)"/>
+<path d="M130 112H400" stroke="url(#ln)" stroke-width="5" fill="none"/><path d="M400 112H2270M2244 90L2270 112L2244 134" stroke="#5eead4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="400" cy="112" r="30" fill="#04070a" stroke="#14b8a6" stroke-opacity=".35" stroke-width="5"/><circle cx="400" cy="112" r="14" fill="#5eead4"/><circle cx="1200" cy="112" r="30" fill="#04070a" stroke="#14b8a6" stroke-opacity=".35" stroke-width="5"/><circle cx="1200" cy="112" r="14" fill="#5eead4"/><circle cx="2000" cy="112" r="30" fill="#04070a" stroke="#14b8a6" stroke-opacity=".35" stroke-width="5"/><circle cx="2000" cy="112" r="14" fill="#5eead4"/>
+<g fill="#5eead4" transform="translate(0 216) scale(0.042 -0.042)"><use xlink:href="#n0" x="8948"/><use xlink:href="#n1" x="9665"/></g>
+<g fill="#fff" transform="translate(0 322) scale(0.096 -0.096)"><use xlink:href="#a2" x="2449"/><use xlink:href="#a3" x="3081"/><use xlink:href="#a4" x="3342"/><use xlink:href="#a5" x="3867"/><use xlink:href="#a6" x="4480"/><use xlink:href="#a7" x="4741"/><use xlink:href="#a5" x="5271"/></g>
+<g fill="#5eead4" transform="translate(0 216) scale(0.042 -0.042)"><use xlink:href="#n0" x="27914"/><use xlink:href="#n8" x="28631"/></g>
+<g fill="#fff" transform="translate(0 322) scale(0.096 -0.096)"><use xlink:href="#a9" x="9472"/><use xlink:href="#a10" x="10106"/><use xlink:href="#a11" x="10721"/><use xlink:href="#a5" x="11160"/><use xlink:href="#a12" x="11772"/><use xlink:href="#a13" x="12628"/><use xlink:href="#a11" x="13169"/><use xlink:href="#a3" x="13626"/><use xlink:href="#a14" x="13888"/><use xlink:href="#a14" x="14406"/><use xlink:href="#a5" x="14915"/></g>
+<g fill="#5eead4" transform="translate(0 216) scale(0.042 -0.042)"><use xlink:href="#n0" x="46958"/><use xlink:href="#n15" x="47674"/></g>
+<g fill="#fff" transform="translate(0 322) scale(0.096 -0.096)"><use xlink:href="#a9" x="19096"/><use xlink:href="#a16" x="19729"/><use xlink:href="#a17" x="20368"/><use xlink:href="#a18" x="20949"/><use xlink:href="#a11" x="21550"/><use xlink:href="#a17" x="21989"/></g>
 </svg>
