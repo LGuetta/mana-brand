@@ -7,15 +7,15 @@ Logo, icone, colori e grafiche di Mana ([managroup.ai](https://managroup.ai)), i
 | Cartella | Contenuto |
 | --- | --- |
 | `logo/` | Logo completo e marchio in bianco (SVG), icona quadrata (PNG 512) |
-| `icone/svg/` e `icone/png/` | 17 icone, riquadro scuro con segno verde acqua. SVG e PNG 512 con sfondo trasparente |
+| `icone/svg/` e `icone/png/` | 20 icone, riquadro scuro con segno verde acqua. SVG e PNG 512 con sfondo trasparente |
 | `grafica/` | Striscia "I tre passi": Risolvo, Automatizzo, Agente |
 | `anteprima/` | Immagini di anteprima usate in questa pagina |
 
 ## Icone
 
-![Le 17 icone in tema chiaro e scuro](anteprima/icone.png)
+![Le 20 icone in tema chiaro e scuro](anteprima/icone.png)
 
-Nomi dei file: `mana-fondamenta`, `mana-come-si-lavora`, `mana-attivita`, `mana-progetti`, `mana-pipeline`, `mana-clienti`, `mana-proposte`, `mana-riunioni`, `mana-soldi`, `mana-fatture`, `mana-finanze`, `mana-documenti`, `mana-catalogo`, `mana-appunti`, `mana-agenti`, `mana-oggi`, `mana-archivio`.
+Nomi dei file: `mana-fondamenta`, `mana-come-si-lavora`, `mana-attivita`, `mana-progetti`, `mana-pipeline`, `mana-clienti`, `mana-proposte`, `mana-riunioni`, `mana-soldi`, `mana-fatture`, `mana-finanze`, `mana-documenti`, `mana-catalogo`, `mana-appunti`, `mana-agenti`, `mana-oggi`, `mana-archivio`, `mana-squadra`, `mana-provvigioni`, `mana-componenti`.
 
 Regole del disegno, per aggiungerne altre uguali:
 
