@@ -9,6 +9,7 @@ Logo, icone, colori e grafiche di Mana ([managroup.ai](https://managroup.ai)), i
 | `logo/` | Logo completo e marchio in bianco (SVG), icona quadrata (PNG 512) |
 | `icone/svg/` e `icone/png/` | 20 icone, riquadro scuro con segno verde acqua. SVG e PNG 512 con sfondo trasparente |
 | `grafica/` | Striscia "I tre passi": Risolvo, Automatizzo, Agente |
+| `copertine/svg/` e `copertine/jpg/` | 9 copertine per le pagine Notion, una per pagina principale. SVG e JPG 2400 x 960 |
 | `anteprima/` | Immagini di anteprima usate in questa pagina |
 
 ## Icone
@@ -26,6 +27,19 @@ Regole del disegno, per aggiungerne altre uguali:
 ## Striscia dei tre passi
 
 ![Risolvo, Automatizzo, Agente](anteprima/tre-passi.png)
+
+## Copertine
+
+![Le nove copertine](anteprima/copertine.png)
+
+Nomi dei file: `mana-copertina-fondamenta`, `mana-copertina-come-si-lavora`, `mana-copertina-pipeline`, `mana-copertina-progetti`, `mana-copertina-soldi`, `mana-copertina-documenti`, `mana-copertina-riunioni`, `mana-copertina-archivio`, `mana-copertina-oggi`.
+
+Regole del disegno:
+
+- tela 2400 x 960, fondo `#04070a` con due aloni, verde acqua in basso a sinistra e ciano in alto a destra;
+- il segno dell'icona della pagina ripreso in grande sulla destra, tratto sottile, al 36%;
+- Notion su computer mostra solo la fascia centrale, circa il 40% dell'altezza: il segno sta tutto lì dentro;
+- niente testo.
 
 ## Colori
 
@@ -45,7 +59,7 @@ Carattere: Space Grotesk.
 
 - Nero, bianco e un solo colore d'accento per volta.
 - Il logo non si deforma, non si ricolora e non si mette su fondi chiari senza la versione adatta.
-- I file in `icone/png/` sono usati come icone delle pagine Notion di Mana: non rinominarli e non spostarli, altrimenti le icone spariscono.
+- I file in `icone/png/` e in `copertine/jpg/` sono usati come icone e copertine delle pagine Notion di Mana: non rinominarli e non spostarli, altrimenti spariscono.
 
 ## Diritti
 

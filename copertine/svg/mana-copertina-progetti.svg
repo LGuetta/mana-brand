@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 960" width="2400" height="960">
+<defs>
+<radialGradient id="a" gradientUnits="userSpaceOnUse" cx="60" cy="800" r="1150"><stop offset="0" stop-color="#14b8a6" stop-opacity=".28"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" gradientUnits="userSpaceOnUse" cx="2380" cy="200" r="1050"><stop offset="0" stop-color="#22d3ee" stop-opacity=".17"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="c" gradientUnits="userSpaceOnUse" cx="1960" cy="480" r="430"><stop offset="0" stop-color="#5eead4" stop-opacity=".10"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+<filter id="n" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="7"/><feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  .33 .33 .33 0 0"/></filter>
+</defs>
+<rect width="2400" height="960" fill="#04070a"/>
+<rect width="2400" height="960" fill="url(#a)"/>
+<rect width="2400" height="960" fill="url(#b)"/>
+<rect width="2400" height="960" fill="url(#c)"/>
+<g opacity="0.36" transform="translate(1665.6 185.60000000000002) scale(4.6)"><path d="M38 44 H72" fill="none" stroke="#5eead4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M52 64 H92" fill="none" stroke="#5eead4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 84 H78" fill="none" stroke="#5eead4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect width="2400" height="960" filter="url(#n)" opacity=".05"/>
+</svg>
