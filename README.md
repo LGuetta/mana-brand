@@ -38,7 +38,7 @@ Regole del disegno:
 
 - tela 2400 x 960, fondo `#04070a` con due aloni, verde acqua in basso a sinistra e ciano in alto a destra;
 - il segno dell'icona della pagina ripreso in grande sulla destra, tratto sottile, al 36%;
-- Notion su computer mostra solo la fascia centrale, circa il 40% dell'altezza: il segno sta tutto lì dentro;
+- Notion su computer mostra solo la fascia centrale, meno del 30% dell'altezza: il segno è alto circa il 21% e ci sta tutto;
 - niente testo.
 
 ## Colori
